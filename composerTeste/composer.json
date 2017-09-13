@@ -1,0 +1,15 @@
+{
+    "name": "geovan/composer-teste",
+    "type": "dev",
+    "license": "free",
+    "authors": [
+        {
+            "name": "Geovan Goes",
+            "email": "geovansilvagoes@gmail.com"
+        }
+    ],
+    "require": 
+    {
+        "doctrine/orm": "*"   
+    }
+}
